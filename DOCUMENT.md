@@ -3,7 +3,7 @@
 The objective of this project is to build a machine learning model that can predict whether a person is eligible for a loan or not, based on their financial and demographic data. The final application helps financial institutions make informed lending decisions and reduce the risk of loan defaults.
 # 🗂️ Project Structure:
 * loan_data.csv
-  Contains the historical data of loan applicants including features like income, credit score, employment status, etc.
+  * Contains the historical data of loan applicants including features like income, credit score, employment status, etc.
 * Data Processing.ipynb
   * Cleaned the raw dataset by handling missing values, outliers, and inconsistent formats.
   * Encoded categorical variables and normalized numerical values.
