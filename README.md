@@ -6,7 +6,9 @@ To develop a machine learning model that accurately predicts whether a borrower 
 * Review Selected Features
 * HyperParameter Tuned Algorithm
 # Screenshots
-![image alt](https://github.com/AruRaja11/Loan_Default_Prediction/blob/4b9ae0ddadb2f48dce2f028ca2da95a02168493e/Screenshot/Screenshot%201.jpg)
+![image alt](https://github.com/AruRaja11/Loan_Default_Prediction/blob/e8d91b3c180a543621261e1f247a2ec6a90f3a43/Screenshot/Screenshot%201.png)
+![image alt](https://github.com/AruRaja11/Loan_Default_Prediction/blob/e8d91b3c180a543621261e1f247a2ec6a90f3a43/Screenshot/Screenshot%202.png)
+  
 # Technology Used
 * Python
 * Pandas
