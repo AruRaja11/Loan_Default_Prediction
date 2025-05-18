@@ -5,8 +5,10 @@ To develop a machine learning model that accurately predicts whether a borrower 
 * Uses Filters to Customize details
 * Review Selected Features
 * HyperParameter Tuned Algorithm
+* Batch Prediction with file upload
 # Screenshots
 ![image alt](https://github.com/AruRaja11/Loan_Default_Prediction/blob/e8d91b3c180a543621261e1f247a2ec6a90f3a43/Screenshot/Screenshot%201.png)
+# Upload a file for batch prediciton
 ![image alt](https://github.com/AruRaja11/Loan_Default_Prediction/blob/e8d91b3c180a543621261e1f247a2ec6a90f3a43/Screenshot/Screenshot%202.png)
   
 # Technology Used
